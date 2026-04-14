@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mUxFsCvTug0gwHkm3rgq" name="第 2 页">
-    <mxGraphModel dx="1202" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="705" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,8 +292,8 @@
             <mxPoint x="240" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="corkEnR55AShl_d_gBiJ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\mathrm{X_{rx1}+X_{tx1}}$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="55" x="292.5" y="360" as="geometry" />
+        <mxCell id="corkEnR55AShl_d_gBiJ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Times New Roman;" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;$$\mathrm{X_{rx1}+X_{tx1}}$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="285" y="360" as="geometry" />
         </mxCell>
         <mxCell id="corkEnR55AShl_d_gBiJ-29" edge="1" parent="1" source="corkEnR55AShl_d_gBiJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
